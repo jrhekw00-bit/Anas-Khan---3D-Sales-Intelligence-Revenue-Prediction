@@ -1,0 +1,8 @@
+{
+  "name": "Anas Khan - 3D Sales Intelligence & Revenue Prediction",
+  "description": "Production-grade 3D AI sales intelligence, predictive revenue modeling, chronological multi-horizon forecasting, and product performance analytics by Anas Khan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

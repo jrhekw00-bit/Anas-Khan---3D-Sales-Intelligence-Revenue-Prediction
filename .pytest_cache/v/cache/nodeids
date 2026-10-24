@@ -1,0 +1,13 @@
+[
+  "backend/tests/test_api.py::test_business_insights",
+  "backend/tests/test_api.py::test_csv_upload_and_validation",
+  "backend/tests/test_api.py::test_forecasting_invalid_horizon",
+  "backend/tests/test_api.py::test_health_endpoint",
+  "backend/tests/test_api.py::test_ml_prediction_invalid",
+  "backend/tests/test_api.py::test_ml_prediction_valid",
+  "backend/tests/test_api.py::test_model_metrics",
+  "backend/tests/test_api.py::test_overview_analytics",
+  "backend/tests/test_api.py::test_overview_analytics_with_filters",
+  "backend/tests/test_api.py::test_product_analytics",
+  "backend/tests/test_api.py::test_time_series_forecasting"
+]

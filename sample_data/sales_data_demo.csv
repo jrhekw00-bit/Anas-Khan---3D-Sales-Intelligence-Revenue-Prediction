@@ -1,0 +1,90 @@
+Date,Product,Category,Price,Quantity,Discount,Ad_Spend,Revenue
+2025-01-02,Cloud Infrastructure,Cloud Services,1200.0,3,0.05,250.0,3420.0
+2025-01-03,AI Copilot Enterprise,AI Software,450.0,8,0.10,320.0,3240.0
+2025-01-04,Security Suite Pro,Cybersecurity,750.0,4,0.00,180.0,3000.0
+2025-01-05,Analytics Engine,Data Analytics,980.0,5,0.08,400.0,4508.0
+2025-01-06,Neural API Gateway,Developer Tools,350.0,12,0.15,190.0,3570.0
+2025-01-07,Cloud Infrastructure,Cloud Services,1200.0,4,0.05,300.0,4560.0
+2025-01-08,AI Copilot Enterprise,AI Software,450.0,11,0.05,350.0,4702.5
+2025-01-09,Data Lake Storage,Cloud Services,890.0,6,0.12,220.0,4699.2
+2025-01-10,Security Suite Pro,Cybersecurity,750.0,7,0.05,280.0,4987.5
+2025-01-11,CRM Intelligence,Business Apps,620.0,9,0.10,310.0,5022.0
+2025-01-12,Neural API Gateway,Developer Tools,350.0,14,0.20,210.0,3920.0
+2025-01-13,Analytics Engine,Data Analytics,980.0,6,0.05,420.0,5586.0
+2025-01-14,Cloud Infrastructure,Cloud Services,1200.0,5,0.08,340.0,5520.0
+2025-01-15,AI Copilot Enterprise,AI Software,450.0,15,0.10,480.0,6075.0
+2025-01-16,Security Suite Pro,Cybersecurity,750.0,6,0.00,200.0,4500.0
+2025-01-17,Data Lake Storage,Cloud Services,890.0,8,0.15,260.0,6052.0
+2025-01-18,CRM Intelligence,Business Apps,620.0,10,0.05,330.0,5890.0
+2025-01-19,Neural API Gateway,Developer Tools,350.0,16,0.10,250.0,5040.0
+2025-01-20,Analytics Engine,Data Analytics,980.0,7,0.10,450.0,6174.0
+2025-01-21,Cloud Infrastructure,Cloud Services,1200.0,6,0.05,360.0,6840.0
+2025-01-22,AI Copilot Enterprise,AI Software,450.0,18,0.12,500.0,7128.0
+2025-01-23,Security Suite Pro,Cybersecurity,750.0,8,0.08,290.0,5520.0
+2025-01-24,Data Lake Storage,Cloud Services,890.0,9,0.10,300.0,7209.0
+2025-01-25,CRM Intelligence,Business Apps,620.0,11,0.15,350.0,5797.0
+2025-01-26,Neural API Gateway,Developer Tools,350.0,18,0.05,280.0,5985.0
+2025-01-27,Analytics Engine,Data Analytics,980.0,8,0.05,460.0,7448.0
+2025-01-28,Cloud Infrastructure,Cloud Services,1200.0,7,0.10,410.0,7560.0
+2025-01-29,AI Copilot Enterprise,AI Software,450.0,20,0.10,550.0,8100.0
+2025-01-30,Security Suite Pro,Cybersecurity,750.0,9,0.05,310.0,6412.5
+2025-01-31,Data Lake Storage,Cloud Services,890.0,10,0.08,340.0,8188.0
+2025-02-01,Cloud Infrastructure,Cloud Services,1200.0,6,0.05,350.0,6840.0
+2025-02-02,AI Copilot Enterprise,AI Software,450.0,17,0.10,510.0,6885.0
+2025-02-03,CRM Intelligence,Business Apps,620.0,12,0.05,380.0,7068.0
+2025-02-04,Security Suite Pro,Cybersecurity,750.0,7,0.00,240.0,5250.0
+2025-02-05,Analytics Engine,Data Analytics,980.0,7,0.10,430.0,6174.0
+2025-02-06,Neural API Gateway,Developer Tools,350.0,19,0.15,290.0,5652.5
+2025-02-07,Data Lake Storage,Cloud Services,890.0,9,0.12,320.0,7048.8
+2025-02-08,Cloud Infrastructure,Cloud Services,1200.0,7,0.08,390.0,7728.0
+2025-02-09,AI Copilot Enterprise,AI Software,450.0,22,0.05,580.0,9405.0
+2025-02-10,Security Suite Pro,Cybersecurity,750.0,10,0.05,330.0,7125.0
+2025-02-11,CRM Intelligence,Business Apps,620.0,13,0.10,400.0,7254.0
+2025-02-12,Neural API Gateway,Developer Tools,350.0,21,0.10,310.0,6615.0
+2025-02-13,Analytics Engine,Data Analytics,980.0,9,0.08,480.0,8114.4
+2025-02-14,Cloud Infrastructure,Cloud Services,1200.0,8,0.05,420.0,9120.0
+2025-02-15,AI Copilot Enterprise,AI Software,450.0,24,0.15,620.0,9180.0
+2025-02-16,Data Lake Storage,Cloud Services,890.0,11,0.10,360.0,8811.0
+2025-02-17,Security Suite Pro,Cybersecurity,750.0,11,0.05,350.0,7837.5
+2025-02-18,CRM Intelligence,Business Apps,620.0,14,0.05,420.0,8246.0
+2025-02-19,Neural API Gateway,Developer Tools,350.0,23,0.15,340.0,6842.5
+2025-02-20,Analytics Engine,Data Analytics,980.0,10,0.05,510.0,9310.0
+2025-02-21,Cloud Infrastructure,Cloud Services,1200.0,9,0.10,460.0,9720.0
+2025-02-22,AI Copilot Enterprise,AI Software,450.0,25,0.08,650.0,10350.0
+2025-02-23,Security Suite Pro,Cybersecurity,750.0,12,0.00,380.0,9000.0
+2025-02-24,Data Lake Storage,Cloud Services,890.0,12,0.12,390.0,9398.4
+2025-02-25,CRM Intelligence,Business Apps,620.0,15,0.10,440.0,8370.0
+2025-02-26,Neural API Gateway,Developer Tools,350.0,25,0.05,360.0,8312.5
+2025-02-27,Analytics Engine,Data Analytics,980.0,11,0.10,540.0,9702.0
+2025-02-28,Cloud Infrastructure,Cloud Services,1200.0,10,0.05,490.0,11400.0
+2025-03-01,AI Copilot Enterprise,AI Software,450.0,28,0.10,700.0,11340.0
+2025-03-02,Security Suite Pro,Cybersecurity,750.0,13,0.08,410.0,8970.0
+2025-03-03,Data Lake Storage,Cloud Services,890.0,13,0.05,420.0,10991.5
+2025-03-04,CRM Intelligence,Business Apps,620.0,16,0.05,460.0,9424.0
+2025-03-05,Neural API Gateway,Developer Tools,350.0,27,0.12,380.0,8305.5
+2025-03-06,Analytics Engine,Data Analytics,980.0,12,0.05,570.0,11172.0
+2025-03-07,Cloud Infrastructure,Cloud Services,1200.0,11,0.08,520.0,12144.0
+2025-03-08,AI Copilot Enterprise,AI Software,450.0,30,0.10,750.0,12150.0
+2025-03-09,Security Suite Pro,Cybersecurity,750.0,14,0.05,430.0,9975.0
+2025-03-10,Data Lake Storage,Cloud Services,890.0,14,0.10,440.0,11214.0
+2025-03-11,CRM Intelligence,Business Apps,620.0,17,0.10,480.0,9486.0
+2025-03-12,Neural API Gateway,Developer Tools,350.0,29,0.15,400.0,8627.5
+2025-03-13,Analytics Engine,Data Analytics,980.0,13,0.05,600.0,12103.0
+2025-03-14,Cloud Infrastructure,Cloud Services,1200.0,12,0.05,550.0,13680.0
+2025-03-15,AI Copilot Enterprise,AI Software,450.0,32,0.12,790.0,12672.0
+2025-03-16,Security Suite Pro,Cybersecurity,750.0,15,0.00,450.0,11250.0
+2025-03-17,Data Lake Storage,Cloud Services,890.0,15,0.08,460.0,12282.0
+2025-03-18,CRM Intelligence,Business Apps,620.0,18,0.05,500.0,10602.0
+2025-03-19,Neural API Gateway,Developer Tools,350.0,31,0.05,420.0,10307.5
+2025-03-20,Analytics Engine,Data Analytics,980.0,14,0.10,630.0,12348.0
+2025-03-21,Cloud Infrastructure,Cloud Services,1200.0,13,0.10,580.0,14040.0
+2025-03-22,AI Copilot Enterprise,AI Software,450.0,34,0.10,830.0,13770.0
+2025-03-23,Security Suite Pro,Cybersecurity,750.0,16,0.05,470.0,11400.0
+2025-03-24,Data Lake Storage,Cloud Services,890.0,16,0.12,490.0,12531.2
+2025-03-25,CRM Intelligence,Business Apps,620.0,19,0.15,530.0,10013.0
+2025-03-26,Neural API Gateway,Developer Tools,350.0,33,0.10,440.0,10395.0
+2025-03-27,Analytics Engine,Data Analytics,980.0,15,0.05,660.0,13965.0
+2025-03-28,Cloud Infrastructure,Cloud Services,1200.0,14,0.05,610.0,15960.0
+2025-03-29,AI Copilot Enterprise,AI Software,450.0,36,0.15,870.0,13770.0
+2025-03-30,Security Suite Pro,Cybersecurity,750.0,17,0.08,490.0,11730.0
+2025-03-31,Data Lake Storage,Cloud Services,890.0,17,0.05,510.0,14373.5
